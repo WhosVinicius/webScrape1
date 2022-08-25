@@ -2,9 +2,9 @@ from email.message import EmailMessage
 import ssl
 import smtplib
 
-emailSender = 'viniciuswebscrp@gmail.com'
-emailReceiver ='viniciusag626@gmail.com'
-emailPass = 'wgwggeoythwlcedj'
+emailSender = 
+emailReceiver =
+emailPass = 
 
 
 em = EmailMessage()
